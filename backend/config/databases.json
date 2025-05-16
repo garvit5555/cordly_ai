@@ -1,0 +1,8 @@
+[
+  {
+    "id": "sample",
+    "name": "Sample Database",
+    "type": "sqlite",
+    "filename": "data/sample.db"
+  }
+] 

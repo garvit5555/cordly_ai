@@ -1,0 +1,8 @@
+[
+  {
+    "id": "sample_store",
+    "name": "Sample Store",
+    "type": "sqlite",
+    "path": "E:/Downloads/cordly_ai/backend/data/sample_store.db"
+  }
+] 

@@ -19,7 +19,7 @@ A natural language SQL query interface that allows users to interact with a SQLi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/garvit5555/cordly_ai.git
 ```
 
 2. Install dependencies:
